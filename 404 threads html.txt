@@ -64,14 +64,14 @@
 </head>
 <body>
   <header>
-    <img src="tralarelotralala.jpg" alt="404 Threads logo" />
-    <h1>404 Threads</h1>
+    <img src="tralarelotralala.jpg" alt="404 Threads logo" width="300">
+    <h1>E-eluwina! Mamy sigmastyczne koszuleczki ze świeżym brainrocikiem! Dla każdego znajdzie się jakaś skibidi stylówka! Bądź sikalafą i kup coś czego będzie zazdrościć ci każdy bambik. Nasz biznes rozpoczął się kiedy dostrzegliśmy jak basic ahh ubrania mają prawie wszyscy ludzie, a przecież każdy powinien nosić tuff ubrania! Dlatego na nonszalanckim spotkaniu naszego teamu stwierdziliśmy, że musimy coś z tym zrobić. Tak właśnie powstało 404 Threads. YO.</h1>
   </header>
 
   <main>
     <section class="product">
       <h2>T-shirt "Tralalero Tralala"</h2>
-      <img src="tralalatshirt.jpeg" alt="T-shirt Tralalero Tralala" />
+      <img src="tralala tshirt.jpg" alt="T-shirt Tralalero Tralala" width="300">
       <p>79 zł</p>
       <button class="btn">Zamów</button>
     </section>
