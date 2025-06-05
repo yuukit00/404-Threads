@@ -1,2 +1,0 @@
-E-eluwina! Mamy sigmastyczne koszuleczki ze świeżym brainrocikiem! Dla każdego znajdzie się jakaś skibidi stylówka! Bądź sikalafą i kup coś czego będzie zazdrościć ci każdy bambik. 
-Nasz biznes rozpoczął się kiedy dostrzegliśmy jak basic ahh ubrania mają prawie wszyscy ludzie, a przecież każdy powinien nosić tuff ubrania! Dlatego na nonszalanckim spotkaniu naszego teamu stwierdziliśmy, że musimy coś z tym zrobić. Tak właśnie powstało 404 Threads. YO.
